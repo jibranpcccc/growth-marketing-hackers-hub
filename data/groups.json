@@ -1,5 +1,24 @@
 [
   {
+    "id": "growth-marketing-programmatic-seo-hub-reddit-2",
+    "title": "r/SEO Search Optimization",
+    "platform": "Reddit",
+    "category": "Search Engine Optimization",
+    "memberCount": "280,000+ members",
+    "description": "Technical SEO audits, Core Web Vitals, link building strategies, and algorithmic Google update discussions.",
+    "joinUrl": "https://www.reddit.com/r/SEO/",
+    "tags": [
+      "seo",
+      "serp",
+      "google",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-18"
+  },
+  {
     "id": "growth-marketing-hackers-hub-forum-20261020-1",
     "title": "DEV Community WebDev Hub",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -606,24 +625,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "growth-marketing-programmatic-seo-hub-reddit-2",
-    "title": "r/SEO Search Optimization",
-    "platform": "Reddit",
-    "category": "Search Engine Optimization",
-    "memberCount": "280,000+ members",
-    "description": "Technical SEO audits, Core Web Vitals, link building strategies, and algorithmic Google update discussions.",
-    "joinUrl": "https://www.reddit.com/r/SEO/",
-    "tags": [
-      "seo",
-      "serp",
-      "google",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "growth-marketing-programmatic-seo-hub-reddit-3",
